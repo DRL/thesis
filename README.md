@@ -1,4 +1,9 @@
-Supplementary material for the thesis "On the evolution of effector gene families in potato cyst nematodes" by Dominik R. Laetsch
+Supplementary material for the PhD thesis 
+
+"On the evolution of effector gene families in potato cyst nematodes" 
+
+by Dominik R. Laetsch
+
 ------------
 
 - ```dna_extraction_protocol.txt```
