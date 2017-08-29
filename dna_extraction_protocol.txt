@@ -1,0 +1,66 @@
+DNA extraction from single “Globodera pallida Pa1” cysts
+ 
+General advice :
+always clean the bench and pipettes with 70% Ethanol before starting
+always spin down tubes before opening the lid 
+always use filter-tips for pipettes
+
+ Washing and picking of cysts
+Transfer cysts to glass bowl
+Add 100µl EB or STW
+Transfer cysts to tube with yellow tip (size selection based on those that do not pass)
+Add 1ml EB; Add 5µl Tween20; mix by inversion
+Centrifuge 3’ @ 15,000G; RT 
+Transfer floating cysts to individual tubes (minimizing amount of liquid) and place cyst near the 100µl mark
+Freeze @ -80ºC or proceed with next step
+
+ DNA extraction 
+
+Preparation
+Liquid Nitrogen, tweezers, autoclaved white pestles
+Ice bucket (for Proteinase K)
+Dry bath @ 56ºC
+Reagents 
+	number of samples = N, final volume = Vf (11µl - 21µl)
+N x 600µl of Qiagen Cell Lysis Buffer
+N x 5µl Proteinase K (20mg/ml)
+N x 200µl Qiagen Protein Precipitation Buffer
+N x 4 µl RNAse A (100mg/ml)
+N x 0.25µl Glycogen solution (20mg/ml)
+N x 600µl Isopropanol
+N x 600µl 70% Ethanol
+N x Vf µl Elution buffer
+
+Start 
+
+ Freeze all tubes in liquid nitrogen
+ Processing one tube at a time, do :
+ Open tube carefully w/o breaking off the lid
+ Crush cyst using a white pestle through twisting; leave pestle in the tube
+ Add 600µl Qiagen Cell Lysis Buffer; remove pestle carefully so that tissue remains in the tube
+ Add 5µl Proteinase K (20mg/ml) 
+ Mixed by vortexing
+ Incubate samples O/N @ 56ºC; mix by inversion whenever possible
+
+Next Day
+
+ Add 4µl of RNAseA (100mg/ml), mix by inversion
+ Incubate 10’ @ RT
+ Add 200µl Qiagen Protein Precipitation Buffer; vortex briefly
+ Incubate 10’ on ice
+ Centrifuge 10’ @ 15,000G; 4ºC
+ Transfer supernatant with blue tip to new tube
+ Add 0.25µl Glycogen solution (20mg/ml); mix by inversion
+ Add 600µl Isopropanol; mix by inversion
+ Incubate O/N @ -20 ºC
+
+Next Day
+
+ Centrifuge 45’ @ 17,000G; 4ºC; remove supernatant
+ Add 600µl 70% Ethanol; mix by inversion
+ Centrifuge 30’ @ 17,000G; 4ºC; remove supernatant
+ Dry pellet under fume hood for 1h
+ Add Vf µl Elution buffer; incubate 1h @ RT (or O/N @ 4ºC)
+ Store sample(s) @ -20ºC
+ 
+	
